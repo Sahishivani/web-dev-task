@@ -1,0 +1,10 @@
+public class CellType {
+
+	public static final CellType SNAKE_NODE = null;
+	public static final CellType FOOD = null;
+
+
+EMPTY,
+FOOD,
+SNAKE_NODE;
+}
